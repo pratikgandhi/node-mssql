@@ -31,7 +31,7 @@
   "dependencies": {
     "debug": "^2.6.3",
     "generic-pool": "^3.4.2",
-    "tedious": "^2.0.0"
+    "tedious": "1.15.0"
   },
   "devDependencies": {
     "mocha": "^2.1.0",
