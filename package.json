@@ -31,6 +31,7 @@
   "dependencies": {
     "debug": "^2.6.3",
     "generic-pool": "^3.4.2",
+    "retry-as-promised": "^2.3.2",
     "tedious": "1.15.0"
   },
   "devDependencies": {
