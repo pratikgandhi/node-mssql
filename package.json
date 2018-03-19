@@ -30,7 +30,7 @@
   "license": "MIT",
   "dependencies": {
     "debug": "^2.6.3",
-    "generic-pool": "^3.4.2",
+    "generic-pool": "https://github.com/munir131/node-pool/tarball/f224928e7a47cadbf3635653b6aaa04d14fb7a57",
     "tedious": "1.15.0"
   },
   "devDependencies": {
